@@ -1,11 +1,11 @@
 # Optimizing-Schwefel-function-by-using-Evolution-strategies-
 
 
-#Introduction
+# Introduction
 
 In computer science, an evolution strategy (ES) is an optimization technique based on ideas of evolution. It belongs to the general class of  evolutionary computation or artificial evolution methodologies.
 
-#history
+# history
 
 The 'evolution strategy' optimization technique was created in the early 1960s and developed further in the 1970s and later by Ingo Rechenberg, Hans-Paul schwefel and their co-workers. 
 
