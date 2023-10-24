@@ -2,7 +2,7 @@
 """
 Created on Wed Jan  5 18:54:58 2022
 
-@author: zolfaqar
+@author: Hamed
 """
 
 from numpy import sin,sqrt

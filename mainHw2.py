@@ -2,7 +2,7 @@
 """
 Created on Tue Jan  4 16:34:16 2022
 
-@author: Zolfaqar
+@author: Hamed
 """
 from numpy import arange
 from numpy import exp
